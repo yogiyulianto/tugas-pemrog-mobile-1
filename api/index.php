@@ -5,7 +5,7 @@
 </head>
 <body>
     <?php
-        // This is a single-line comment in PHP
+        // This is a single-line comment in PHP perubahan
         echo '<p>Hello World</p>'; // The 'echo' statement outputs text
     ?>
 </body>
